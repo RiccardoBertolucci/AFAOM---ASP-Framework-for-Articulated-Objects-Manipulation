@@ -1,8 +1,0 @@
-STEP 0: move-link-to-central(link2,joint2,joint2,gleft)
-STEP 1: take-links-to-move(link2,link3,joint2,gleft,gright)
-STEP 2: decrease_angle_first_child(link3,link2,joint2,angle270,angle180,gleft,gright)
-STEP 3: decrease_angle_first_child(link3,link2,joint2,angle180,angle90,gleft,gright)
-STEP 4: release-links(link3,link2,joint2,gleft,gright)
-STEP 5: move-link-to-central(link3,joint3,joint3,gleft)
-STEP 6: take-links-to-move(link3,link4,joint3,gleft,gright)
-STEP 7: increase_angle_first_child(link4,link3,joint3,angle90,angle180,gleft,gright)

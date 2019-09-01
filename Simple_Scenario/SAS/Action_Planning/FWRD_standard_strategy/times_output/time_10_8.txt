@@ -1,9 +1,0 @@
-clingo_time_10_8_n1,3600.780,-1
-clingo_time_10_8_n3,3600.750,-1
-clingo_time_10_8_n4,3600.440,-1
-clingo_time_10_8_n5,3600,-1
-clingo_time_10_8_n6,3600.070,-1
-clingo_time_10_8_n7,3600.930,-1
-clingo_time_10_8_n8,3600,-1
-clingo_time_10_8_n9,3600.320,-1
-clingo_time_10_8_n10,3600,-1
