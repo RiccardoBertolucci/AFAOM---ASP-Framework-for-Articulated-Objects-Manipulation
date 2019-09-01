@@ -1,0 +1,15 @@
+madagascar_5_4-n1,0.2,8
+madagascar_5_4-n2,2.78,5
+madagascar_5_4-n3,0.16,4
+madagascar_5_4-n4,0.4,5
+madagascar_5_4-n5,0.85,5
+probe_5_4-n1,0.1,10
+probe_5_4-n2,0.15,12
+probe_5_4-n3,0.11,6
+probe_5_4-n4,0.18,5
+probe_5_4-n5,0.19,9
+clingo_5_4-n1,300.08,-1
+clingo_5_4-n2,97.6,14
+clingo_5_4-n3,7.23,11
+clingo_5_4-n4,0.62,8
+clingo_5_4-n5,6.97,10

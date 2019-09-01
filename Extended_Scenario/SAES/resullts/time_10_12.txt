@@ -1,0 +1,15 @@
+madagascar_10_12-n1,51.16,-1
+madagascar_10_12-n2,51.74,-1
+madagascar_10_12-n3,51.46,-1
+madagascar_10_12-n4,50.97,-1
+madagascar_10_12-n5,55.68,-1
+probe_10_12-n1,300.0,-1
+probe_10_12-n2,300.0,-1
+probe_10_12-n3,300.0,-1
+probe_10_12-n4,300.0,-1
+probe_10_12-n5,300.0,-1
+clingo_10_12-n1,300,-1
+clingo_10_12-n2,300,-1
+clingo_10_12-n3,300,-1
+clingo_10_12-n4,300,-1
+clingo_10_12-n5,300,-1

@@ -1,0 +1,11 @@
+clingo version 5.2.2
+Reading from ...5/ASP/ASP/clingo/data/5_4/p_5_4-n3.asp ...
+Solving...
+Answer: 1
+free(0,0) free(1,0) connected(1,1) connected(1,2) connected(2,2) connected(2,3) connected(3,3) connected(3,4) connected(4,4) connected(4,5) time(0) time(1) time(2) time(3) time(4) time(5) gripper(0) gripper(1) joint(1) joint(2) joint(3) joint(4) link(1) link(2) link(3) link(4) link(5) in_centre(3,0) hasAngle(1,0,0) hasAngle(2,270,0) hasAngle(3,90,0) hasAngle(4,180,0) hasAngle(5,90,0) angles(0) angles(90) angles(180) angles(270) goal(1,0) goal(2,0) goal(3,90) goal(4,180) goal(5,0) hasAngle(5,90,1) hasAngle(4,180,1) hasAngle(3,90,1) hasAngle(2,270,1) hasAngle(1,0,1) linkToCentral_Grasp(5,4,4,4,0,1,0) free(0,2) free(1,2) in_centre(4,1) hasAngle(5,90,2) in_hand(4,1) in_hand(5,1) test(0,linkToCentral_Grasp(5,4,4,4,0,1,0)) grasped(0,5,1) grasped(1,4,1) in_centre(4,2) linkToCentral_Grasp(2,3,2,2,1,0,2) hasAngle(5,90,3) changeAngle_release(4,5,4,1,0,270,180,1) hasAngle(3,180,2) hasAngle(4,270,2) hasAngle(2,0,2) hasAngle(1,90,2) free(0,4) free(1,4) in_centre(2,3) in_hand(3,3) in_hand(2,3) test(2,linkToCentral_Grasp(2,3,2,2,1,0,2)) grasped(0,3,3) grasped(1,2,3) hasAngle(3,90,4) hasAngle(4,180,4) hasAngle(3,180,3) hasAngle(4,270,3) hasAngle(2,0,3) hasAngle(1,90,3) in_centre(2,4) linkToCentral_Grasp(1,2,3,1,1,0,4) affected(1,90,0,1) affected(3,180,90,1) affected(2,0,270,1) hasAngle(4,180,5) hasAngle(3,90,5) hasAngle(5,0,4) hasAngle(2,0,4) hasAngle(1,90,4) free(0,6) free(1,6) in_centre(1,5) hasAngle(1,0,6) hasAngle(3,90,6) hasAngle(4,180,6) changeAngle_release(3,2,2,0,1,90,180,3) in_hand(2,5) in_hand(1,5) test(4,linkToCentral_Grasp(1,2,3,1,1,0,4)) grasped(0,2,5) grasped(1,1,5) hasAngle(5,0,5) hasAngle(2,0,5) hasAngle(1,90,5) affected(5,0,90,3) affected(4,180,270,3) in_centre(1,6) hasAngle(5,0,6) hasAngle(2,0,6) changeAngle_release(1,2,1,1,0,0,90,5) ok(3,2,90,180,3) ok(1,2,0,90,5) ok(4,5,270,180,1) ok(4,5,270,0,1) ok(4,5,0,270,1) action(0,linkToCentral_Grasp(5,4,4,4,0,1,0)) action(2,linkToCentral_Grasp(2,3,2,2,1,0,2)) action(4,linkToCentral_Grasp(1,2,3,1,1,0,4)) action(1,changeAngle_release(4,5,4,1,0,270,180,1)) action(3,changeAngle_release(3,2,2,0,1,90,180,3)) action(5,changeAngle_release(1,2,1,1,0,0,90,5))
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.133s (Solving: 0.03s 1st Model: 0.03s Unsat: 0.00s)
+CPU Time     : 0.133s

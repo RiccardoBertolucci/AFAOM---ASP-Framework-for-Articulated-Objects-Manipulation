@@ -1,0 +1,29 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_4_6-n4 /home/berto/Desktop/Baxter-macro/ASP/Codes/ASP/clingo/data/4_6/p_4_6-n4.asp 4_6"
+[pyrunlim] start:		Fri Jul 12 15:56:51 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.211	     1.770	     0.040	      33.3	      33.3	       0.0
+[pyrunlim] sample:		    20.037	     7.250	     0.050	      37.2	      37.2	       0.0
+[pyrunlim] sample:		    30.181	    14.320	     0.090	      39.4	      39.4	       0.0
+[pyrunlim] sample:		    40.298	    24.430	     0.090	      40.7	      40.7	       0.0
+[pyrunlim] sample:		    50.458	    32.560	     0.090	      41.2	      41.2	       0.0
+[pyrunlim] sample:		    60.579	    41.670	     0.090	      41.7	      13.3	       0.0
+[pyrunlim] end:  		Fri Jul 12 15:57:53 2019
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		18
+[pyrunlim] real:		62.607 seconds
+[pyrunlim] time:		41.760 seconds
+[pyrunlim] user:		41.670 seconds
+[pyrunlim] system:		0.090 seconds
+[pyrunlim] memory:		41.7 MB
+[pyrunlim] samples:		100

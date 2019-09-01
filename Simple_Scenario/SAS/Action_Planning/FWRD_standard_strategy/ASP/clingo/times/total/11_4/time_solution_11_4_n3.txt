@@ -1,0 +1,26 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		3600 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3, 4, 5, 6, 7]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_11_4_n3 /home/emarolab/ASP/CAPF/ASP/clingo/data/11_4/11_4_n3.asp 11_4"
+[pyrunlim] start:		Tue Jun 12 04:04:48 2018
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.010	     0.000	     0.000	      13.4	       7.6	       0.0
+[pyrunlim] sample:		    20.243	     5.770	     0.000	      22.7	      22.7	       0.0
+[pyrunlim] sample:		    30.875	    14.200	     0.000	      24.0	      23.1	       0.0
+[pyrunlim] end:  		Tue Jun 12 04:05:21 2018
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		10
+[pyrunlim] real:		33.908 seconds
+[pyrunlim] time:		14.200 seconds
+[pyrunlim] user:		14.200 seconds
+[pyrunlim] system:		0.000 seconds
+[pyrunlim] memory:		24.0 MB
+[pyrunlim] samples:		72

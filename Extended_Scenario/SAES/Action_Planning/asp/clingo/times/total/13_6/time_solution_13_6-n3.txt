@@ -1,0 +1,54 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_13_6-n3 /home/berto/Desktop/Baxter-macro/ASP/Codes/ASP/clingo/data/13_6/p_13_6-n3.asp 13_6"
+[pyrunlim] start:		Fri Jul 12 16:25:36 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.375	    10.270	     0.070	     206.4	     206.4	       0.0
+[pyrunlim] sample:		    20.129	    20.030	     0.070	     206.4	     206.4	       0.0
+[pyrunlim] sample:		    30.781	    30.680	     0.070	     206.4	     206.4	       0.0
+[pyrunlim] sample:		    40.919	    40.820	     0.070	     206.4	     206.4	       0.0
+[pyrunlim] sample:		    50.044	    49.940	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		    60.181	    60.080	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		    70.337	    70.230	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		    80.532	    80.420	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		    90.682	    90.580	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   100.818	   100.710	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   110.957	   110.850	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   120.081	   119.980	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   130.221	   130.120	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   140.357	   140.250	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   150.494	   150.390	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   160.631	   160.520	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   170.769	   170.660	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   180.904	   180.800	     0.070	     206.7	     206.7	       0.0
+[pyrunlim] sample:		   190.028	   189.900	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   200.167	   200.040	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   210.302	   210.170	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   220.443	   220.310	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   230.583	   230.460	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   240.722	   240.590	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   250.862	   250.730	     0.090	     223.5	     223.5	       0.0
+[pyrunlim] sample:		   261.003	   260.870	     0.100	     246.4	     246.4	       0.0
+[pyrunlim] sample:		   270.132	   269.960	     0.130	     292.0	     292.0	       0.0
+[pyrunlim] sample:		   280.280	   280.110	     0.130	     292.0	     292.0	       0.0
+[pyrunlim] sample:		   290.425	   290.260	     0.130	     292.0	     292.0	       0.0
+[pyrunlim] sample:		   300.570	   300.400	     0.130	     298.0	     298.0	       0.0
+[pyrunlim] sample:		  3600.038	   300.400	     0.130	     298.0	       3.1	       0.0
+[pyrunlim] end:  		Fri Jul 12 17:25:36 2019
+[pyrunlim] status:		out of time
+[pyrunlim] result:		137
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		4
+[pyrunlim] real:		3600.038 seconds
+[pyrunlim] time:		300.530 seconds
+[pyrunlim] user:		300.400 seconds
+[pyrunlim] system:		0.130 seconds
+[pyrunlim] memory:		298.0 MB
+[pyrunlim] samples:		336

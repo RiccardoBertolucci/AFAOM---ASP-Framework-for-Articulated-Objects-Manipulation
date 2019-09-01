@@ -1,0 +1,15 @@
+madagascar_9_6-n1,300.0,-1
+madagascar_9_6-n2,189.24,-1
+madagascar_9_6-n3,292.19,-1
+madagascar_9_6-n4,300.0,-1
+madagascar_9_6-n5,300.0,-1
+probe_9_6-n1,31.68,23
+probe_9_6-n2,19.47,29
+probe_9_6-n3,178.68,20
+probe_9_6-n4,300.0,-1
+probe_9_6-n5,123.93,33
+clingo_9_6-n1,300,-1
+clingo_9_6-n2,300,-1
+clingo_9_6-n3,300,-1
+clingo_9_6-n4,300,-1
+clingo_9_6-n5,300,-1

@@ -1,0 +1,11 @@
+clingo version 5.2.2
+Reading from ...CAPF/ASP/clingo/data/3_12/3_12_n10.asp ...
+Solving...
+Answer: 1
+isLinked(0,1) isLinked(1,2) isLinked(2,3) isLinked(3,2) isLinked(2,1) isLinked(1,0) joint(0) joint(1) joint(2) joint(3) angles(0) angles(30) angles(60) angles(90) angles(120) angles(150) angles(180) angles(210) angles(240) angles(270) angles(300) angles(330) hasAngle(0,0,0) hasAngle(1,150,0) hasAngle(2,30,0) hasAngle(3,270,0) time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) time(11) hasAngle(3,270,1) hasAngle(2,30,1) hasAngle(1,150,1) hasAngle(0,0,1) hasAngle(0,0,2) hasAngle(0,0,3) hasAngle(0,0,4) hasAngle(0,0,5) hasAngle(0,0,6) hasAngle(0,0,7) hasAngle(0,0,8) hasAngle(0,0,9) hasAngle(0,0,10) hasAngle(0,0,11) hasAngle(0,0,12) changeAngleF(1,0,120,150,1) hasAngle(3,240,2) hasAngle(2,0,2) hasAngle(1,120,2) hasAngle(1,90,3) hasAngle(2,330,3) hasAngle(3,210,3) affectedF(3,240,270,1) affectedF(2,0,30,1) hasAngle(3,180,4) hasAngle(2,300,4) hasAngle(1,60,4) changeAngleF(1,0,90,120,2) affectedF(3,210,240,2) affectedF(2,330,0,2) hasAngle(1,60,5) hasAngle(2,270,5) hasAngle(3,150,5) changeAngleF(1,0,60,90,3) affectedF(2,300,330,3) affectedF(3,180,210,3) hasAngle(3,120,6) hasAngle(2,240,6) hasAngle(1,30,6) changeAngleF(2,1,270,300,4) affectedF(3,150,180,4) hasAngle(1,30,7) hasAngle(2,210,7) hasAngle(3,90,7) changeAngleF(1,0,30,60,5) affectedF(2,240,270,5) affectedF(3,120,150,5) hasAngle(3,60,8) hasAngle(2,180,8) hasAngle(1,30,8) changeAngleF(2,1,210,240,6) affectedF(3,90,120,6) hasAngle(1,30,9) hasAngle(2,150,9) hasAngle(3,30,9) changeAngleF(2,1,180,210,7) affectedF(3,60,90,7) hasAngle(3,0,10) hasAngle(2,120,10) hasAngle(1,0,10) changeAngleF(2,1,150,180,8) affectedF(3,30,60,8) hasAngle(1,0,11) hasAngle(2,90,11) hasAngle(3,330,11) changeAngleF(1,0,0,30,9) affectedF(2,120,150,9) affectedF(3,0,30,9) hasAngle(3,330,12) hasAngle(2,90,12) hasAngle(1,0,12) changeAngleF(2,1,90,120,10) affectedF(3,330,0,10) ok(1,0,120,150,1) ok(1,0,90,120,2) ok(1,0,60,90,3) ok(2,1,270,300,4) ok(1,0,30,60,5) ok(2,1,210,240,6) ok(2,1,180,210,7) ok(2,1,150,180,8) ok(1,0,0,30,9) ok(2,1,90,120,10)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.138s (Solving: 0.03s 1st Model: 0.03s Unsat: 0.00s)
+CPU Time     : 0.138s

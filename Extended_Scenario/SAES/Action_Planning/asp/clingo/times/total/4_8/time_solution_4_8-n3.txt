@@ -1,0 +1,38 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_4_8-n3 /home/berto/Documents/SAES_and_MAES/ASP/Codes/ASP/clingo/data/4_8/p_4_8-n3.asp 4_8"
+[pyrunlim] start:		Thu Aug  8 15:30:00 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.052	     0.010	     0.010	      13.2	      13.2	       0.0
+[pyrunlim] sample:		    20.309	     2.860	     0.030	      37.6	      37.6	       0.0
+[pyrunlim] sample:		    30.931	     8.600	     0.050	      40.9	      40.9	       0.0
+[pyrunlim] sample:		    40.029	    16.690	     0.050	      40.9	      13.2	       0.0
+[pyrunlim] sample:		    50.155	    25.390	     0.050	      43.1	      43.1	       0.0
+[pyrunlim] sample:		    60.266	    35.500	     0.050	      43.1	      43.1	       0.0
+[pyrunlim] sample:		    70.398	    42.930	     0.050	      45.8	      45.8	       0.0
+[pyrunlim] sample:		    80.506	    53.040	     0.050	      45.8	      45.8	       0.0
+[pyrunlim] sample:		    90.615	    63.150	     0.050	      45.8	      45.8	       0.0
+[pyrunlim] sample:		   100.725	    73.260	     0.050	      47.6	      47.6	       0.0
+[pyrunlim] sample:		   110.835	    83.360	     0.050	      47.6	      47.6	       0.0
+[pyrunlim] sample:		   120.945	    93.470	     0.050	      48.1	      48.1	       0.0
+[pyrunlim] sample:		   130.064	   100.260	     0.060	      48.1	      47.6	       0.0
+[pyrunlim] sample:		   140.175	   110.370	     0.060	      48.1	      47.6	       0.0
+[pyrunlim] sample:		   150.300	   120.500	     0.060	      48.2	      48.2	       0.0
+[pyrunlim] end:  		Thu Aug  8 15:32:38 2019
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		20
+[pyrunlim] real:		158.390 seconds
+[pyrunlim] time:		125.610 seconds
+[pyrunlim] user:		125.550 seconds
+[pyrunlim] system:		0.060 seconds
+[pyrunlim] memory:		48.5 MB
+[pyrunlim] samples:		195

@@ -1,0 +1,15 @@
+madagascar_11_4-n2,300,-1
+probe_11_4-n2,300,-1
+clingo_11_4-n2,300.45,-1
+madagascar_11_4-n3,300,-1
+probe_11_4-n3,300,-1
+clingo_11_4-n3,300.13,-1
+madagascar_11_4-n4,300,-1
+probe_11_4-n4,300,-1
+clingo_11_4-n4,300.55,-1
+madagascar_11_4-n5,300,-1
+probe_11_4-n5,300,-1
+clingo_11_4-n5,300.5,-1
+madagascar_11_4-n1,300,-1
+probe_11_4-n1,300,-1
+clingo_11_4-n1,300.06,-1
