@@ -1,0 +1,15 @@
+madagascar_5_6-n2,300,-1
+probe_5_6-n2,300,-1
+clingo_5_6-n2,0.63,5
+madagascar_5_6-n3,300,-1
+probe_5_6-n3,300,-1
+clingo_5_6-n3,28.33,9
+madagascar_5_6-n1,300,-1
+probe_5_6-n1,300,-1
+clingo_5_6-n1,48.03,9
+madagascar_5_6-n4,300,-1
+probe_5_6-n4,300,-1
+clingo_5_6-n4,104.05,10
+madagascar_5_6-n5,300,-1
+probe_5_6-n5,300,-1
+clingo_5_6-n5,0.29,4

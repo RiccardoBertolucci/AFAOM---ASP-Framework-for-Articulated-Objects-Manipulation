@@ -1,0 +1,6 @@
+STEP 0: link-to-central-grasp (link2,link1,joint1,joint1,gleft,gright)
+STEP 1: decrease-release (link2,link1,joint1,gleft,gright,angle120,angle60)
+STEP 2: link-to-central-grasp (link2,link3,joint2,joint2,gleft,gright)
+STEP 3: decrease-release (link3,link2,joint2,gleft,gright,angle180,angle120)
+STEP 4: link-to-central-grasp (link5,link4,joint4,joint4,gleft,gright)
+STEP 5: decrease-release (link5,link4,joint4,gleft,gright,angle180,angle120)

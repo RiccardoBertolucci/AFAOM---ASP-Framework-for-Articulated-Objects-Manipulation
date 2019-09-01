@@ -1,0 +1,34 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_7_4-n2 /home/berto/Desktop/Baxter-macro/ASP/Codes/ASP/clingo/data/7_4/p_7_4-n2.asp 7_4"
+[pyrunlim] start:		Wed Jul 17 00:03:46 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.468	     5.500	     0.090	      30.9	      13.2	       0.0
+[pyrunlim] sample:		    20.111	    13.620	     0.100	      33.6	      33.6	       0.0
+[pyrunlim] sample:		    30.518	    24.020	     0.110	      33.9	      33.9	       0.0
+[pyrunlim] sample:		    40.125	    31.440	     0.150	      35.7	      35.7	       0.0
+[pyrunlim] sample:		    50.839	    42.160	     0.150	      36.4	      36.4	       0.0
+[pyrunlim] sample:		    60.474	    51.790	     0.150	      36.4	      36.4	       0.0
+[pyrunlim] sample:		    70.117	    61.430	     0.160	      39.8	      39.8	       0.0
+[pyrunlim] sample:		    80.821	    72.130	     0.160	      40.6	      40.6	       0.0
+[pyrunlim] sample:		    90.456	    81.760	     0.160	      41.1	      41.1	       0.0
+[pyrunlim] sample:		   100.099	    91.400	     0.160	      41.1	      41.1	       0.0
+[pyrunlim] sample:		   110.791	   100.010	     0.200	      41.1	      38.6	       0.0
+[pyrunlim] sample:		   120.418	   109.640	     0.200	      41.1	      38.6	       0.0
+[pyrunlim] sample:		   130.045	   119.270	     0.200	      41.1	      38.9	       0.0
+[pyrunlim] sample:		   140.746	   129.960	     0.200	      42.0	      42.0	       0.0
+[pyrunlim] sample:		   150.399	   139.610	     0.200	      42.0	      42.0	       0.0
+[pyrunlim] sample:		   160.065	   149.270	     0.210	      42.2	      42.2	       0.0
+[pyrunlim] sample:		   170.770	   159.970	     0.220	      44.6	      44.6	       0.0
+[pyrunlim] sample:		   180.404	   169.600	     0.220	      44.6	      44.6	       0.0
+[pyrunlim] sample:		   190.038	   179.230	     0.220	      45.3	      45.3	       0.0
+[pyrunlim] sample:		   200.742	   189.930	     0.220	      46.4	      46.4	       0.0
+[pyrunlim] sample:		   210.377	   199.560	     0.220	      46.4	      46.4	       0.0
+[pyrunlim] sample:		   220.028	   209.210	     0.220	      46.4	      46.4	       0.0
+[pyrunlim] sample:		   230.737	   219.920	     0.220	      46.4	      46.4	       0.0

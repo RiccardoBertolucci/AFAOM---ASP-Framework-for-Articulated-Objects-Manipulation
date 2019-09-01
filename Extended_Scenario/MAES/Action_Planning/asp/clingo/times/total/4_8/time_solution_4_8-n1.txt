@@ -1,0 +1,26 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_4_8-n1 /home/berto/Documents/SAES_and_MAES/ASP/Codes/ASP/clingo/data/4_8/p_4_8-n1.asp 4_8"
+[pyrunlim] start:		Thu Aug  8 15:22:59 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.201	     0.050	     0.000	      25.8	      13.5	       0.0
+[pyrunlim] sample:		    20.442	     3.080	     0.000	      37.8	      37.8	       0.0
+[pyrunlim] sample:		    30.080	     8.010	     0.000	      39.6	      13.5	       0.0
+[pyrunlim] end:  		Thu Aug  8 15:23:34 2019
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		18
+[pyrunlim] real:		35.127 seconds
+[pyrunlim] time:		9.570 seconds
+[pyrunlim] user:		9.550 seconds
+[pyrunlim] system:		0.020 seconds
+[pyrunlim] memory:		41.5 MB
+[pyrunlim] samples:		73

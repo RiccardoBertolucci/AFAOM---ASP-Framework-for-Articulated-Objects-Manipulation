@@ -1,0 +1,11 @@
+clingo version 5.2.2
+Reading from ...SP/CAPF/ASP/clingo/data/7_6/7_6_n5.asp ...
+Solving...
+Answer: 1
+isLinked(0,1) isLinked(1,2) isLinked(2,3) isLinked(3,4) isLinked(4,5) isLinked(5,6) isLinked(6,7) isLinked(7,6) isLinked(6,5) isLinked(5,4) isLinked(4,3) isLinked(3,2) isLinked(2,1) isLinked(1,0) joint(0) joint(1) joint(2) joint(3) joint(4) joint(5) joint(6) joint(7) angles(0) angles(60) angles(120) angles(180) angles(240) angles(300) hasAngle(0,0,0) hasAngle(1,300,0) hasAngle(2,240,0) hasAngle(3,60,0) hasAngle(4,180,0) hasAngle(5,240,0) hasAngle(6,300,0) hasAngle(7,60,0) time(0) time(1) time(2) time(3) time(4) time(5) time(6) hasAngle(7,60,1) hasAngle(6,300,1) hasAngle(5,240,1) hasAngle(4,180,1) hasAngle(3,60,1) hasAngle(2,240,1) hasAngle(1,300,1) hasAngle(0,0,1) hasAngle(0,0,2) hasAngle(0,0,3) hasAngle(0,0,4) hasAngle(0,0,5) hasAngle(0,0,6) hasAngle(0,0,7) hasAngle(1,300,2) hasAngle(2,240,2) hasAngle(3,60,2) hasAngle(4,180,2) hasAngle(5,240,2) hasAngle(5,240,3) hasAngle(4,180,3) hasAngle(3,60,3) hasAngle(2,240,3) hasAngle(1,300,3) changeAngleF(6,5,240,300,1) hasAngle(7,0,2) hasAngle(6,240,2) hasAngle(6,180,3) hasAngle(7,300,3) hasAngle(1,300,4) hasAngle(2,240,4) hasAngle(3,60,4) hasAngle(4,180,4) hasAngle(5,240,4) affectedF(7,0,60,1) hasAngle(7,240,4) hasAngle(6,180,4) changeAngleF(6,5,180,240,2) affectedF(7,300,0,2) hasAngle(1,240,5) hasAngle(2,180,5) hasAngle(3,0,5) hasAngle(4,120,5) hasAngle(5,180,5) hasAngle(6,120,5) hasAngle(7,180,5) changeAngleF(7,6,240,300,3) changeAngleF(1,0,240,300,4) hasAngle(7,120,6) hasAngle(6,60,6) hasAngle(5,120,6) hasAngle(4,60,6) hasAngle(3,300,6) hasAngle(2,120,6) hasAngle(1,240,6) affectedF(7,180,240,4) affectedF(6,120,180,4) affectedF(5,180,240,4) affectedF(4,120,180,4) affectedF(3,0,60,4) affectedF(2,180,240,4) hasAngle(1,240,7) hasAngle(2,120,7) hasAngle(3,300,7) hasAngle(4,60,7) hasAngle(5,120,7) hasAngle(6,60,7) hasAngle(7,120,7) changeAngleF(2,1,120,180,5) affectedF(3,300,0,5) affectedF(4,60,120,5) affectedF(5,120,180,5) affectedF(6,60,120,5) affectedF(7,120,180,5) ok(6,5,240,300,1) ok(6,5,180,240,2) ok(1,0,240,300,4) ok(7,6,240,300,3) ok(2,1,120,180,5)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.077s (Solving: 0.04s 1st Model: 0.04s Unsat: 0.00s)
+CPU Time     : 0.077s

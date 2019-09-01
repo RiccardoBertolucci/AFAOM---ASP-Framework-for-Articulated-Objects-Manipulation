@@ -1,0 +1,10 @@
+clingo_time_5_6_n1,1.530,9
+clingo_time_5_6_n2,4.810,9
+clingo_time_5_6_n3,1.880,9
+clingo_time_5_6_n4,1.910,9
+clingo_time_5_6_n5,0.010,4
+clingo_time_5_6_n6,2.200,9
+clingo_time_5_6_n7,0.010,4
+clingo_time_5_6_n8,0.000,7
+clingo_time_5_6_n9,1.460,9
+clingo_time_5_6_n10,1.710,9

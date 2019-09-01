@@ -1,0 +1,35 @@
+[pyrunlim] version:		2.16
+[pyrunlim] time limit:		300 seconds
+[pyrunlim] memory limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] real time limit:	10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds
+[pyrunlim] swap limit:		10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 MB
+[pyrunlim] pyrunlim cpu affin.:	[0, 1, 2, 3]
+[pyrunlim] cpu affinity:	[0, 1, 2, 3]
+[pyrunlim] nice:		20
+[pyrunlim] running:		bash -c "./wrapper_clingo.py solution_6_4-n2 /home/berto/Documents/Baxter-macro/ASP/Codes/ASP/clingo/data/6_4/p_6_4-n2.asp 6_4"
+[pyrunlim] start:		Wed Jul 17 16:08:20 2019
+[pyrunlim] columns:		real (s)	user (s)	sys (s)  	max memory (MB)	rss (MB)   	swap (MB)
+[pyrunlim] sample:		    10.493	     1.930	     0.000	      32.7	      32.7	       0.0
+[pyrunlim] sample:		    20.185	     9.160	     0.000	      40.8	      40.8	       0.0
+[pyrunlim] sample:		    30.800	    17.320	     0.000	      46.2	      38.0	       0.0
+[pyrunlim] sample:		    40.904	    27.430	     0.000	      46.2	      42.9	       0.0
+[pyrunlim] sample:		    51.009	    37.530	     0.000	      46.2	      43.4	       0.0
+[pyrunlim] sample:		    60.106	    43.770	     0.010	      46.2	      40.0	       0.0
+[pyrunlim] sample:		    70.209	    53.870	     0.010	      46.2	      45.1	       0.0
+[pyrunlim] sample:		    80.314	    63.980	     0.010	      46.7	      46.7	       0.0
+[pyrunlim] sample:		    90.420	    74.080	     0.010	      51.9	      51.9	       0.0
+[pyrunlim] sample:		   100.526	    84.190	     0.010	      51.9	      51.9	       0.0
+[pyrunlim] sample:		   110.632	    94.290	     0.010	      51.9	      51.9	       0.0
+[pyrunlim] sample:		   120.739	   101.580	     0.010	      52.1	      40.5	       0.0
+[pyrunlim] end:  		Wed Jul 17 16:10:30 2019
+[pyrunlim] status:		complete
+[pyrunlim] result:		0
+[pyrunlim] output:		/dev/stdout
+[pyrunlim] error:		/dev/stdout
+[pyrunlim] children:		16
+[pyrunlim] real:		129.827 seconds
+[pyrunlim] time:		107.650 seconds
+[pyrunlim] user:		107.640 seconds
+[pyrunlim] system:		0.010 seconds
+[pyrunlim] memory:		52.1 MB
+[pyrunlim] samples:		167

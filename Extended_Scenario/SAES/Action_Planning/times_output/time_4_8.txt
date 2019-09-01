@@ -1,0 +1,15 @@
+madagascar_4_8-n1,300,-1
+probe_4_8-n1,300,-1
+clingo_4_8-n1,9.55,12
+madagascar_4_8-n5,300,-1
+probe_4_8-n5,300,-1
+clingo_4_8-n5,300.05,-1
+madagascar_4_8-n2,300,-1
+probe_4_8-n2,300,-1
+clingo_4_8-n2,49.73,18
+madagascar_4_8-n3,300,-1
+probe_4_8-n3,300,-1
+clingo_4_8-n3,125.55,15
+madagascar_4_8-n4,300,-1
+probe_4_8-n4,300,-1
+clingo_4_8-n4,173.84,15

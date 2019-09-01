@@ -1,0 +1,10 @@
+clingo_time_6_12_n1,137.360,13
+clingo_time_6_12_n2,1211.660,17
+clingo_time_6_12_n3,9.100,10
+clingo_time_6_12_n4,14.120,12
+clingo_time_6_12_n5,3600.450,-1
+clingo_time_6_12_n6,3600.490,-1
+clingo_time_6_12_n7,3600.380,-1
+clingo_time_6_12_n8,3600.290,-1
+clingo_time_6_12_n9,19.260,11
+clingo_time_6_12_n10,3600.690,-1

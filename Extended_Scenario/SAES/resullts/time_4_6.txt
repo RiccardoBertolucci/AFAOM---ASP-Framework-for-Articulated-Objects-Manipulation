@@ -1,0 +1,15 @@
+madagascar_4_6-n1,300.0,-1
+madagascar_4_6-n2,0.28,14
+madagascar_4_6-n3,0.27,5
+madagascar_4_6-n4,47.63,44
+madagascar_4_6-n5,0.17,1
+probe_4_6-n1,0.14,7
+probe_4_6-n2,0.15,11
+probe_4_6-n3,0.09,5
+probe_4_6-n4,0.14,13
+probe_4_6-n5,0.06,1
+clingo_4_6-n1,3.88,11
+clingo_4_6-n2,48.75,13
+clingo_4_6-n3,4.82,13
+clingo_4_6-n4,120.66,15
+clingo_4_6-n5,0.02,2
