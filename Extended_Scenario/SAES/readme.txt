@@ -26,7 +26,7 @@ It contains:
 
 It contains: 
 
-- The execution time, including computation of a relaible solution, exctraction of the plan and its validation. Theese data were used to fill 
+* The execution time, including computation of a relaible solution, exctraction of the plan and its validation. Theese data were used to fill 
   the tables mentioned above.
 
 ## FILES 

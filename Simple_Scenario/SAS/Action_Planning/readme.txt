@@ -21,4 +21,4 @@ It contains:
 
 It contains: 
 
-- The encoding presented in the related work section of which we give the encoding but we do not pèresent here the gathered data nor the solutions
+* The encoding presented in the related work section of which we give the encoding but we do not pèresent here the gathered data nor the solutions

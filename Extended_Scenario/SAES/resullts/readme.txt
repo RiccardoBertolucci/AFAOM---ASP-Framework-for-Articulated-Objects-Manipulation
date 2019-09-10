@@ -9,5 +9,5 @@ clingo_[NUMBER OF LINKS]_[GRANULARITY]-n[INSTANCE NUMBER],t,a
 
 where:
 
-- t is the total planning time computed with the "pyrunlim.py" script
-- a is the number of actions
+* t is the total planning time computed with the "pyrunlim.py" script
+* a is the number of actions
