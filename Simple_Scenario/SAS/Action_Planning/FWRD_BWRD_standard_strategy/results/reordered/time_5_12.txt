@@ -1,0 +1,11 @@
+probe_time_5_12_n10,3600,12
+clingo_time_5_12_n1,72.020,11
+clingo_time_5_12_n2,1319.790,13
+clingo_time_5_12_n3,121.910,11
+clingo_time_5_12_n4,70.740,11
+clingo_time_5_12_n5,3600.690,-1
+clingo_time_5_12_n6,3600.350,-1
+clingo_time_5_12_n7,3600.640,-1
+clingo_time_5_12_n8,1049.460,13
+clingo_time_5_12_n9,26.200,10
+clingo_time_5_12_n10,241.680,12

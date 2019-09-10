@@ -1,0 +1,11 @@
+clingo version 5.2.2
+Reading from ...P/CAPFD/ASP/clingo/data/4_8/4_8_n1.asp ...
+Solving...
+Answer: 1
+isLinked(0,1) isLinked(1,2) isLinked(2,3) isLinked(3,4) isLinked(4,3) isLinked(3,2) isLinked(2,1) isLinked(1,0) joint(0) joint(1) joint(2) joint(3) joint(4) angles(0) angles(45) angles(90) angles(135) angles(180) angles(225) angles(270) angles(315) hasAngle(0,0,0) hasAngle(1,180,0) hasAngle(2,225,0) hasAngle(3,45,0) hasAngle(4,180,0) time(0) time(1) time(2) time(3) time(4) time(5) time(6) time(7) time(8) time(9) time(10) hasAngle(4,180,1) hasAngle(3,45,1) hasAngle(2,225,1) hasAngle(1,180,1) hasAngle(0,0,1) hasAngle(0,0,2) hasAngle(1,180,2) hasAngle(1,180,3) hasAngle(0,0,3) changeAngleF(2,1,180,225,1) hasAngle(4,135,2) hasAngle(3,0,2) hasAngle(2,180,2) hasAngle(0,0,4) hasAngle(1,180,4) affectedF(4,135,180,1) affectedF(3,0,45,1) hasAngle(2,135,3) hasAngle(3,315,3) hasAngle(4,90,3) hasAngle(4,45,4) hasAngle(3,270,4) hasAngle(2,135,4) hasAngle(2,225,6) affectedF(4,90,135,2) affectedF(3,315,0,2) changeAngleF(2,1,135,180,2) hasAngle(1,225,5) hasAngle(2,180,5) hasAngle(3,270,5) hasAngle(4,45,5) hasAngle(0,45,5) hasAngle(0,90,6) hasAngle(4,45,6) hasAngle(3,315,6) hasAngle(1,270,6) affectedF(4,45,90,3) affectedD(0,45,0,4) affectedD(1,225,180,4) hasAngle(2,225,8) hasAngle(1,315,7) hasAngle(2,270,7) hasAngle(3,315,7) hasAngle(4,45,7) hasAngle(0,135,7) changeAngleF(3,2,270,315,3) changeAngleD(2,3,180,135,4) changeAngleD(2,3,270,225,6) changeAngleD(3,4,315,270,5) hasAngle(0,135,8) hasAngle(4,0,8) hasAngle(3,270,8) hasAngle(1,315,8) hasAngle(2,225,9) affectedD(1,270,225,5) affectedD(2,225,180,5) affectedD(0,90,45,5) affectedD(0,135,90,6) affectedD(1,315,270,6) hasAngle(2,225,10) hasAngle(1,315,9) hasAngle(3,270,9) hasAngle(4,315,9) hasAngle(0,135,9) affectedF(3,270,315,7) affectedF(4,0,45,7) hasAngle(0,135,10) hasAngle(4,270,10) hasAngle(3,270,10) hasAngle(1,315,10) hasAngle(2,225,11) changeAngleF(2,1,225,270,7) hasAngle(1,315,11) hasAngle(3,270,11) hasAngle(4,270,11) hasAngle(0,135,11) changeAngleF(4,3,315,0,8) changeAngleF(4,3,270,315,9) ok(2,1,180,225,1) ok(2,1,135,180,2) ok(3,2,270,315,3) ok(2,1,225,270,7) ok(4,3,270,315,9) ok(4,3,315,0,8) ok(3,4,315,270,5) ok(2,3,270,225,6) ok(2,3,180,135,4)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 1.664s (Solving: 1.54s 1st Model: 1.54s Unsat: 0.00s)
+CPU Time     : 1.664s

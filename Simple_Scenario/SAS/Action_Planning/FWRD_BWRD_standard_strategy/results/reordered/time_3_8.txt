@@ -1,0 +1,11 @@
+probe_time_3_8_n10,0.03,8
+clingo_time_3_8_n1,0.000,3
+clingo_time_3_8_n2,0.000,4
+clingo_time_3_8_n3,0.010,5
+clingo_time_3_8_n4,0.000,5
+clingo_time_3_8_n5,0.000,4
+clingo_time_3_8_n6,0.000,3
+clingo_time_3_8_n7,0.000,4
+clingo_time_3_8_n8,0.000,3
+clingo_time_3_8_n9,0.000,1
+clingo_time_3_8_n10,0.000,5

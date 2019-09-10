@@ -1,13 +1,3 @@
-madagascar_4_12-n1,227.16,24
-madagascar_4_12-n2,2.82,5
-madagascar_4_12-n3,300.0,-1
-madagascar_4_12-n4,230.5,10
-madagascar_4_12-n5,3.52,12
-probe_4_12-n1,0.85,17
-probe_4_12-n2,0.29,5
-probe_4_12-n3,1.34,15
-probe_4_12-n4,0.73,12
-probe_4_12-n5,0.49,6
 clingo_4_12-n1,300,-1
 clingo_4_12-n2,300,-1
 clingo_4_12-n3,300,-1

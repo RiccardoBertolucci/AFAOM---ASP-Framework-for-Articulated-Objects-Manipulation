@@ -36,7 +36,7 @@ times_clingo_path = local_path + "/ASP/clingo/times/total"
 actions_clingo_path = local_path + "/ASP/clingo/solutions"
 
 
-output_files_path = local_path + "/times_output"
+output_files_path = local_path + "/results"
 
 
 if not os.path.exists(output_files_path):
