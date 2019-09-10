@@ -21,6 +21,12 @@ It contains:
 - The execution time, including computation of a relaible solution, exctraction of the plan and its validation. Theese data were used to fill 
   the tables mentioned above.
 
+### latex_tables
+
+It contains: 
+* The source files written in LaTeX for the table containing the perfermances data of our architecture 
+* The tables in ".pdf" containing the data we gathered.
+
 ## FILES 
 
 ### clingo_solver
